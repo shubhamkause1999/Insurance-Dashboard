@@ -16,4 +16,4 @@ Business Problem
 Goal of the Dashboard
 Walk through key Visuals
 Business Imapct & Insights
-5.Screenshots/Demos: 
+5.Screenshots/Demos: https://github.com/shubhamkause1999/Insurance-Dashboard/blob/main/Insurance%20Analytics.png
